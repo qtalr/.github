@@ -2,7 +2,7 @@
 
 > Resources for "An Introduction to Quantitative Text Analysis for Linguists: Reproducible Research using R".
 
-- 💻 [R lessons](https://github.com/qtalr/lessons)
+- 💻 [Lessons](https://github.com/qtalr/lessons)
 - 📖 [Textbook](https://github.com/qtalr/book)
 - 📦 [`qtalrkit` package](https://github.com/qtalr/qtalrkit)
 - 📈 [Labs](https://github.com/stars/francojc/lists/labs)
