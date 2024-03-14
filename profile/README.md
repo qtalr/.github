@@ -4,7 +4,7 @@ Here is a list of the available resources:
 
 **Text**
 
-- 📖 [Textbook](https://qtalr.github.io/book/)
+- 📖 [Book](https://qtalr.github.io/book/)
 
 **Supplementary resources**
 
@@ -14,4 +14,4 @@ Here is a list of the available resources:
 
 **R package**
 
-- 📦 [`qtkit` package](https://qtalr.github.io/qtkit/)
+- 📦 [`qtkit`](https://qtalr.github.io/qtkit/)
