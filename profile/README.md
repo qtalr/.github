@@ -4,7 +4,7 @@ Here is a list of the available resources:
 
 **Text**
 
-- 📖 [Book](https://qtalr.github.io/book/)
+- 📖 [Book](https://qtalr.com)
 
 **Supplementary resources**
 
